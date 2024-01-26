@@ -1,0 +1,27 @@
+.img-fluid{
+    display: flex;
+    width: 100%;
+    position: absolute;
+    z-index: -10;
+}
+.home-h2{
+    color: #ddd;
+    font-size: 4em;
+    padding-left: 90px;
+    display: flex;
+}
+.home-p{
+    display: flex;
+    color: #ddd;
+    font-size: 3em;
+    font-weight: 700;
+    padding-left: 80px;
+}
+.lorem{
+    display: flex;
+    color: #ddd;
+    margin: 70px;
+    display: flex;
+    float: right;
+
+}
